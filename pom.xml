@@ -131,6 +131,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/main/resource/testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/main/resource/testng_sanity.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
